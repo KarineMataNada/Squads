@@ -1,0 +1,15 @@
+console.log("Bolo para o café\n");
+console.log("Ingredientes:");
+console.log("1 xícara de leite.");
+console.log("1 colher de sopa de fermento em pó.");
+console.log("3 xícaras de farinha de trigo.");
+console.log("3 xícaras de açúcar.");
+console.log("3 ovos.");
+console.log("4 colheres de margarina.\n");
+console.log("Modo de preparo:");
+console.log("Bater o açúcar, a margarina e os ovos.");
+console.log("Depois acrescente a farinha de trigo, o leite e por último o fermento.");
+console.log("Unte a forma com farinha.");
+console.log("Despeje a mistura na forma untada.");
+console.log("Leve ao forno pré aquecido a 190 graus e asse por mais ou menos 40 minutos.\n");
+console.log("Bom Apetite!");
